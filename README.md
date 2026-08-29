@@ -2,6 +2,8 @@
 
 An interactive particle field. Move the pointer to swirl the motes; click to burst them outward. Trails, color shifts, and a live force field do the rest.
 
+**Live:** [wake-field.netlify.app](https://wake-field.netlify.app)
+
 ## Controls
 
 - **Move** — particles orbit toward the cursor
