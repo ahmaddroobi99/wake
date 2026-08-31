@@ -36,3 +36,8 @@ TanStack Start, React, Tailwind, Canvas 2D. All simulation is on-device.
 
 - [aether-visualizer](https://github.com/ahmaddroobi99/aether-visualizer) — audio-driven canvas
 - [lattice](https://github.com/ahmaddroobi99/lattice)
+
+---
+
+Account grouping: research first, undergraduate last — see the [profile README](https://github.com/ahmaddroobi99/ahmaddroobi99). GitHub cannot custom-sort the Repositories tab.
+
