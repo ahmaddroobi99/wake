@@ -4,6 +4,18 @@ An interactive particle field. Move the pointer to swirl the motes; click to bur
 
 **Live:** [wake-field.netlify.app](https://wake-field.netlify.app)
 
+![Wake particle field](docs/demo.png)
+
+```
+Pointer
+  ↓
+Force field (attract / shockwave)
+  ↓
+Particle integration
+  ↓
+Trails + color (speed / orbit / spectrum)
+```
+
 ## Controls
 
 - **Move** — particles orbit toward the cursor
@@ -18,4 +30,9 @@ An interactive particle field. Move the pointer to swirl the motes; click to bur
 
 ## Stack
 
-TanStack Start, React, Tailwind, Canvas 2D.
+TanStack Start, React, Tailwind, Canvas 2D. All simulation is on-device.
+
+## Related
+
+- [aether-visualizer](https://github.com/ahmaddroobi99/aether-visualizer) — audio-driven canvas
+- [lattice](https://github.com/ahmaddroobi99/lattice)
